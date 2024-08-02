@@ -1,0 +1,2 @@
+# amishi
+first repository
